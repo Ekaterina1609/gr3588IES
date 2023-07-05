@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\bin\Debug\net6.0\Lection2Ex11Array.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\bin\Debug\net6.0\Lection2Ex11Array.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\bin\Debug\net6.0\Lection2Ex11Array.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\bin\Debug\net6.0\Lection2Ex11Array.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\bin\Debug\net6.0\Lection2Ex11Array.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\Lection2Ex11Array.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\Lection2Ex11Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\Lection2Ex11Array.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\Lection2Ex11Array.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\Lection2Ex11Array.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\Lection2Ex11Array.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\refint\Lection2Ex11Array.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\Lection2Ex11Array.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\Lection2Ex11Array.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex11Array\obj\Debug\net6.0\ref\Lection2Ex11Array.dll
