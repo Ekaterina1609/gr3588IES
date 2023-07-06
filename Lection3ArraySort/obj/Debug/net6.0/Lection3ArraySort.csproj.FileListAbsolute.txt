@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\Lection3ArraySort.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\Lection3ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\Lection3ArraySort.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\Lection3ArraySort.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\Lection3ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\bin\Debug\net6.0\Lection3ArraySort.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\bin\Debug\net6.0\Lection3ArraySort.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\bin\Debug\net6.0\Lection3ArraySort.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\bin\Debug\net6.0\Lection3ArraySort.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\bin\Debug\net6.0\Lection3ArraySort.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\Lection3ArraySort.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\refint\Lection3ArraySort.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\Lection3ArraySort.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\Lection3ArraySort.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3ArraySort\obj\Debug\net6.0\ref\Lection3ArraySort.dll

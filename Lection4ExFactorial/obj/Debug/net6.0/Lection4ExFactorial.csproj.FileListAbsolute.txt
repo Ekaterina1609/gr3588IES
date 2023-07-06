@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\Lection4ExFactorial.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\Lection4ExFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\Lection4ExFactorial.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\Lection4ExFactorial.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\Lection4ExFactorial.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\bin\Debug\net6.0\Lection4ExFactorial.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\bin\Debug\net6.0\Lection4ExFactorial.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\bin\Debug\net6.0\Lection4ExFactorial.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\bin\Debug\net6.0\Lection4ExFactorial.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\bin\Debug\net6.0\Lection4ExFactorial.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\Lection4ExFactorial.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\refint\Lection4ExFactorial.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\Lection4ExFactorial.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\Lection4ExFactorial.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection4ExFactorial\obj\Debug\net6.0\ref\Lection4ExFactorial.dll

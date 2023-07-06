@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\Lection3TextReplace.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\Lection3TextReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\Lection3TextReplace.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\Lection3TextReplace.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\Lection3TextReplace.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\bin\Debug\net6.0\Lection3TextReplace.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\bin\Debug\net6.0\Lection3TextReplace.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\bin\Debug\net6.0\Lection3TextReplace.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\bin\Debug\net6.0\Lection3TextReplace.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\bin\Debug\net6.0\Lection3TextReplace.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\Lection3TextReplace.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\refint\Lection3TextReplace.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\Lection3TextReplace.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\Lection3TextReplace.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection3TextReplace\obj\Debug\net6.0\ref\Lection3TextReplace.dll
