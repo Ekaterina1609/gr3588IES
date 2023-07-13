@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\bin\Debug\net6.0\Lection1ExSort.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\bin\Debug\net6.0\Lection1ExSort.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\bin\Debug\net6.0\Lection1ExSort.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\bin\Debug\net6.0\Lection1ExSort.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\bin\Debug\net6.0\Lection1ExSort.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\Lection1ExSort.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\Lection1ExSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\Lection1ExSort.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\Lection1ExSort.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\Lection1ExSort.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\Lection1ExSort.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\refint\Lection1ExSort.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\Lection1ExSort.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\Lection1ExSort.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection1ExSort\obj\Debug\net6.0\ref\Lection1ExSort.dll

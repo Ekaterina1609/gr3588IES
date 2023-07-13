@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\bin\Debug\net6.0\Lection2Ex10v3.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\bin\Debug\net6.0\Lection2Ex10v3.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\bin\Debug\net6.0\Lection2Ex10v3.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\bin\Debug\net6.0\Lection2Ex10v3.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\bin\Debug\net6.0\Lection2Ex10v3.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\Lection2Ex10v3.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\Lection2Ex10v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\Lection2Ex10v3.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\Lection2Ex10v3.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\Lection2Ex10v3.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\Lection2Ex10v3.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\refint\Lection2Ex10v3.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\Lection2Ex10v3.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\Lection2Ex10v3.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Lection2Ex10v3\obj\Debug\net6.0\ref\Lection2Ex10v3.dll

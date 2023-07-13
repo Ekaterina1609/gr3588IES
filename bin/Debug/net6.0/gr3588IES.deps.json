@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gr3588IES/1.0.0": {
+        "runtime": {
+          "gr3588IES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gr3588IES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
