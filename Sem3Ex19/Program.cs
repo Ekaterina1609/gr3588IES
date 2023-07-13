@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Введите 5 значное число");
+int num=int.Parse(Console.ReadLine());
+int num4 = (num/1000)%10;
+int num2 = (num%100)/10;
+Console.WriteLine(num/1000);
+Console.WriteLine(num%100);
+Console.WriteLine(num4);
+Console.WriteLine(num2);
+if(num/10000==num%10&&num4==num2) Console.WriteLine("Палиндром");   
+else Console.WriteLine("Не Палиндром");

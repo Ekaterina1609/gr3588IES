@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\bin\Debug\net6.0\Sem3Ex19.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\bin\Debug\net6.0\Sem3Ex19.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\bin\Debug\net6.0\Sem3Ex19.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\bin\Debug\net6.0\Sem3Ex19.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\bin\Debug\net6.0\Sem3Ex19.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\Sem3Ex19.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\Sem3Ex19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\Sem3Ex19.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\Sem3Ex19.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\Sem3Ex19.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\Sem3Ex19.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\refint\Sem3Ex19.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\Sem3Ex19.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\Sem3Ex19.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem3Ex19\obj\Debug\net6.0\ref\Sem3Ex19.dll
