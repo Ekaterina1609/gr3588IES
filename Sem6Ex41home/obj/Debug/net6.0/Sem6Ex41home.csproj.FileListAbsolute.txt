@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\bin\Debug\net6.0\Sem6Ex41home.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\bin\Debug\net6.0\Sem6Ex41home.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\bin\Debug\net6.0\Sem6Ex41home.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\bin\Debug\net6.0\Sem6Ex41home.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\bin\Debug\net6.0\Sem6Ex41home.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\Sem6Ex41home.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\Sem6Ex41home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\Sem6Ex41home.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\Sem6Ex41home.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\Sem6Ex41home.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\Sem6Ex41home.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\refint\Sem6Ex41home.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\Sem6Ex41home.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\Sem6Ex41home.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem6Ex41home\obj\Debug\net6.0\ref\Sem6Ex41home.dll
