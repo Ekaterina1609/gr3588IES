@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\bin\Debug\net6.0\Sem7Ex46.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\bin\Debug\net6.0\Sem7Ex46.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\bin\Debug\net6.0\Sem7Ex46.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\bin\Debug\net6.0\Sem7Ex46.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\bin\Debug\net6.0\Sem7Ex46.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\Sem7Ex46.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\Sem7Ex46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\Sem7Ex46.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\Sem7Ex46.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\Sem7Ex46.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\Sem7Ex46.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\refint\Sem7Ex46.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\Sem7Ex46.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\Sem7Ex46.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex46\obj\Debug\net6.0\ref\Sem7Ex46.dll
