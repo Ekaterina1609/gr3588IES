@@ -1,0 +1,15 @@
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\bin\Debug\net6.0\Sem7Ex50homework.exe
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\bin\Debug\net6.0\Sem7Ex50homework.deps.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\bin\Debug\net6.0\Sem7Ex50homework.runtimeconfig.json
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\bin\Debug\net6.0\Sem7Ex50homework.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\bin\Debug\net6.0\Sem7Ex50homework.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\Sem7Ex50homework.csproj.AssemblyReference.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\Sem7Ex50homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\Sem7Ex50homework.AssemblyInfoInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\Sem7Ex50homework.AssemblyInfo.cs
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\Sem7Ex50homework.csproj.CoreCompileInputs.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\Sem7Ex50homework.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\refint\Sem7Ex50homework.dll
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\Sem7Ex50homework.pdb
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\Sem7Ex50homework.genruntimeconfig.cache
+C:\Users\eivanova\Desktop\Seminar1IES\gr3588IES\Sem7Ex50homework\obj\Debug\net6.0\ref\Sem7Ex50homework.dll
